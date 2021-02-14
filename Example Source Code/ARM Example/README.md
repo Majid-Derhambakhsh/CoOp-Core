@@ -5,6 +5,8 @@ The example of Co Operative Multitasking
 
 - #### Type : Embedded Software.
 
+- #### MCU  : STM32F103C8 (Blue Pill Board)
+
 - #### IDE  : STM32CubeIDE
 
 - #### Program Language : C
