@@ -3,7 +3,9 @@ The example of Co Operative Multitasking
 
 > #### Download Library : [CoOp-Core](https://github.com/Majid-Derhambakhsh/CoOp-Core)  
 
-- #### Type : Embedded Software.
+- #### Type : Embedded Software
+
+- #### MCU  : ATMEGA16A
 
 - #### IDE  : Atmel Studio
 
@@ -14,7 +16,7 @@ The example of Co Operative Multitasking
 - #### Description : this example has four Task
   - Task1: Toggle PIN A.0 with 1000ms delay
   - Task2: Toggle PIN A.1 with 500ms delay
-  - Task3: Toggle PIN A.2 with 50ms delay (in two section)
+  - Task3: Write High/Low on PIN A.2 with 50ms delay
   - Task4: Suspend the Task1 & Task4 after 20s
 
 #### Developer: Majid Derhambakhsh
