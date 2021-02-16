@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-# CoOp-Core
+# Co-Op Core Library
 Co-Op (Co-Operative) Multitasking Algorithm library for c/c++ application's
 
 ### Version : 1.0.0
