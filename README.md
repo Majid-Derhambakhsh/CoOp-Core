@@ -121,7 +121,9 @@ Task_RunCoOpSystem();
 ```  
       
 ##### Example 1 (AVR):  [Download](https://github.com/Majid-Derhambakhsh/CoOp-Core/tree/main/Example%20Source%20Code/AVR%20Example)
-##### Example 2 (STM32):  [Download](https://github.com/Majid-Derhambakhsh/CoOp-Core/tree/main/Example%20Source%20Code/ARM%20Example)
+##### Example 2, 7Segment Counter (AVR):  [Download](https://github.com/Majid-Derhambakhsh/CoOp-Core/blob/main/Example%20Source%20Code/AVR%20Example/CoOp%20-%207Segment%20Example%20(2023-10-04).rar)
+##### Example 3, Read Key (AVR):  [Download](https://github.com/Majid-Derhambakhsh/CoOp-Core/blob/main/Example%20Source%20Code/AVR%20Example/CoOp%20-%20Read%20Key%20Example%20(2023-10-04).rar)
+##### Example 4 (STM32):  [Download](https://github.com/Majid-Derhambakhsh/CoOp-Core/tree/main/Example%20Source%20Code/ARM%20Example)
 
 ## Tests performed:
 - [X] Run on AVR
